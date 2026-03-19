@@ -1,0 +1,536 @@
+Order ID,Order Date,Product Category,Product Name,Sales Amount,Profit,Region,Customer Segment
+ORD-00001,2023-04-03,Technology,Laptop Pro 15,451.17,115.8,North,Corporate
+ORD-00002,2023-04-22,Technology,Laptop Pro 15,1109.64,267.12,East,Corporate
+ORD-00003,2022-01-14,Furniture,Filing Cabinet,323.52,40.56,Central,Home Office
+ORD-00004,2022-07-18,Office Supplies,Sticky Notes Pack,60.26,12.7,,Small Business
+ORD-00005,2024-01-11,Technology,"Monitor 27""",1239.23,187.48,East,Home Office
+ORD-00006,2024-02-18,Technology,External SSD 1TB,700.35,86.37,West,Consumer
+ORD-00007,2024-12-29,Office Supplies,Binder Clips Pack,106.73,29.24,East,Corporate
+ORD-00008,2023-04-15,Furniture,Ergonomic Footrest,1227.06,453.52,North,Consumer
+ORD-00009,2024-07-28,Office Supplies,Ball Pens Box,151.55,47.2,South,Small Business
+ORD-00010,2023-03-26,Clothing,Office Trousers,390.1,137.08,South,Home Office
+ORD-00011,2022-05-11,Furniture,Ergonomic Footrest,,227.61,West,Small Business
+ORD-00012,2023-11-28,Technology,Webcam HD,521.03,185.77,East,Home Office
+ORD-00013,2023-09-04,Office Supplies,Whiteboard Markers,47.79,5.09,West,Consumer
+ORD-00014,2022-02-09,Technology,Mechanical Keyboard,401.36,53.71,North,Small Business
+ORD-00015,2024-09-22,Furniture,Conference Table,1469.18,412.71,East,Consumer
+ORD-00016,2023-03-10,Furniture,Bookshelf 5-Tier,1157.37,219.49,Central,Small Business
+ORD-00017,2022-09-05,Office Supplies,Stapler Set,14.0,3.58,Central,Small Business
+ORD-00018,2022-05-19,Technology,Laptop Pro 15,1829.76,519.91,East,Corporate
+ORD-00019,2023-05-13,Furniture,Conference Table,1230.5,247.17,West,Small Business
+ORD-00020,2022-07-21,Clothing,Polo T-Shirt,99.17,11.61,South,Consumer
+ORD-00021,2023-07-25,Clothing,Formal Shirt,413.61,144.59,South,Corporate
+ORD-00022,2022-07-11,Technology,Laptop Pro 15,1867.46,233.08,Central,Consumer
+ORD-00023,2022-01-05,Clothing,Business Suit,254.75,,West,Small Business
+ORD-00024,2023-03-22,Clothing,Formal Shirt,386.59,27.06,West,Home Office
+ORD-00025,2022-04-27,Clothing,Office Trousers,317.77,90.99,Central,Corporate
+ORD-00026,2022-03-23,Furniture,Filing Cabinet,686.91,259.07,East,Corporate
+ORD-00027,2023-06-28,Furniture,Ergonomic Footrest,1040.37,325.79,North,Corporate
+ORD-00028,2022-05-31,Technology,Laptop Pro 15,1167.74,86.5,South,Consumer
+ORD-00029,2024-06-16,Furniture,Bookshelf 5-Tier,1084.96,,North,Corporate
+ORD-00030,2022-08-01,Technology,Webcam HD,1890.07,460.47,Central,Home Office
+ORD-00031,2023-12-04,Office Supplies,Printer Paper A4,78.2,28.69,Central,Corporate
+ORD-00032,2022-04-01,Technology,Laptop Pro 15,206.38,63.86,South,Home Office
+ORD-00033,2022-06-04,Clothing,Office Trousers,66.21,11.87,East,Consumer
+ORD-00034,2023-09-24,Furniture,Filing Cabinet,1406.32,246.43,West,Consumer
+ORD-00035,2024-04-12,Furniture,Ergonomic Footrest,1149.27,122.83,East,Home Office
+ORD-00036,2023-11-12,Furniture,Filing Cabinet,879.32,120.34,East,Corporate
+ORD-00037,2022-03-21,Furniture,Ergonomic Footrest,411.41,64.52,East,Small Business
+ORD-00038,2024-03-27,Furniture,Standing Desk,1310.09,359.64,East,Corporate
+ORD-00039,2022-08-25,Clothing,Office Trousers,492.6,31.23,North,Consumer
+ORD-00040,2024-11-13,Clothing,Casual Jacket,90.97,18.43,North,Small Business
+ORD-00041,2023-11-08,Furniture,Bookshelf 5-Tier,1337.37,304.24,South,Consumer
+ORD-00042,2022-09-18,Clothing,Casual Jacket,386.66,42.88,South,Home Office
+ORD-00043,2023-09-15,Office Supplies,Stapler Set,120.2,25.57,Central,Consumer
+ORD-00044,2022-12-14,Clothing,Formal Shirt,427.27,35.33,Central,Small Business
+ORD-00045,2023-02-12,Furniture,Ergonomic Footrest,164.7,52.53,North,Corporate
+ORD-00046,2024-02-26,Clothing,Polo T-Shirt,52.5,16.42,Central,Corporate
+ORD-00047,2022-12-27,Technology,External SSD 1TB,2141.62,794.79,South,Corporate
+ORD-00048,2024-12-23,Technology,"Monitor 27""",2571.67,680.02,West,Small Business
+ORD-00049,2024-08-30,Clothing,Office Trousers,174.79,56.31,South,Corporate
+ORD-00050,2022-06-08,Clothing,Formal Shirt,451.86,35.34,North,Small Business
+ORD-00051,2023-03-15,Furniture,Standing Desk,670.64,82.08,South,Corporate
+ORD-00052,2024-02-19,Clothing,Polo T-Shirt,225.49,81.64,Central,Consumer
+ORD-00053,2024-09-26,Clothing,Office Trousers,201.26,57.9,Central,Corporate
+ORD-00054,2024-12-29,Clothing,Formal Shirt,80.85,22.23,South,Corporate
+ORD-00055,2023-06-17,Furniture,Filing Cabinet,396.32,72.41,West,Consumer
+ORD-00056,2022-02-09,Clothing,Casual Jacket,150.9,11.17,East,Small Business
+ORD-00057,2023-02-13,Technology,External SSD 1TB,1710.61,154.02,East,Corporate
+ORD-00058,2022-12-10,Furniture,Filing Cabinet,1884.0,202.19,North,Home Office
+ORD-00059,2023-10-01,Office Supplies,Sticky Notes Pack,105.7,12.62,Central,Consumer
+ORD-00060,2022-03-26,Furniture,Executive Chair,699.73,118.56,North,Consumer
+ORD-00061,2024-01-12,Clothing,Polo T-Shirt,245.97,75.47,East,Small Business
+ORD-00062,2024-08-10,Office Supplies,Whiteboard Markers,61.0,20.79,Central,Small Business
+ORD-00063,2024-08-09,Technology,USB-C Hub,1225.73,200.72,South,Corporate
+ORD-00064,2023-11-29,Clothing,Formal Shirt,390.14,90.05,North,Home Office
+ORD-00065,2024-09-27,Furniture,Executive Chair,436.45,90.28,West,Small Business
+ORD-00066,2024-04-08,Technology,Laptop Pro 15,1445.22,340.82,North,Corporate
+ORD-00067,2024-07-18,Clothing,Office Trousers,136.66,12.55,North,Home Office
+ORD-00068,2023-07-21,Furniture,Standing Desk,1467.25,124.99,West,Small Business
+ORD-00069,2023-01-03,Furniture,Bookshelf 5-Tier,1091.23,75.39,West,Home Office
+ORD-00070,2022-07-30,Office Supplies,Binder Clips Pack,99.19,11.36,West,Small Business
+ORD-00071,2022-05-14,Technology,USB-C Hub,921.27,94.17,South,Consumer
+ORD-00072,2024-05-02,Office Supplies,Sticky Notes Pack,52.88,10.98,West,Consumer
+ORD-00073,2023-09-18,Clothing,Casual Jacket,,30.0,Central,Small Business
+ORD-00074,2023-05-07,Furniture,Bookshelf 5-Tier,205.09,52.88,East,Corporate
+ORD-00075,2023-08-03,Office Supplies,Sticky Notes Pack,140.6,45.8,West,Home Office
+ORD-00076,2022-11-02,Furniture,Filing Cabinet,1634.47,257.7,East,Corporate
+ORD-00077,2023-09-15,Office Supplies,Stapler Set,105.09,8.21,East,Small Business
+ORD-00078,2022-02-22,Technology,"Monitor 27""",364.39,139.48,North,Home Office
+ORD-00079,2024-08-21,Office Supplies,Whiteboard Markers,62.85,12.73,East,Corporate
+ORD-00080,2024-04-16,Clothing,Business Suit,198.41,58.09,South,Home Office
+ORD-00081,2024-07-20,Office Supplies,Binder Clips Pack,32.03,11.3,South,Consumer
+ORD-00082,2024-04-26,Technology,Webcam HD,297.57,60.92,Central,Small Business
+ORD-00083,2023-08-13,Technology,Wireless Mouse,988.61,260.11,North,Corporate
+ORD-00084,2022-01-29,Furniture,Ergonomic Footrest,230.49,48.75,West,Home Office
+ORD-00085,2023-08-21,Technology,Webcam HD,1115.97,151.0,West,Small Business
+ORD-00086,2022-05-23,Furniture,Filing Cabinet,1206.01,274.62,West,Corporate
+ORD-00087,2022-11-01,Technology,USB-C Hub,1304.92,237.53,North,Small Business
+ORD-00088,2024-02-24,Office Supplies,File Folders,18.29,5.43,West,Corporate
+ORD-00089,2022-03-17,Clothing,Polo T-Shirt,95.16,32.9,West,Small Business
+ORD-00090,2022-10-23,Technology,Mechanical Keyboard,1219.35,474.6,,Consumer
+ORD-00091,2023-11-04,Office Supplies,Whiteboard Markers,106.86,32.22,South,Consumer
+ORD-00092,2023-04-26,Clothing,Office Trousers,386.04,77.94,East,
+ORD-00093,2022-12-07,Technology,External SSD 1TB,1883.96,287.64,East,Small Business
+ORD-00094,2024-12-23,Office Supplies,Stapler Set,57.47,15.13,West,Corporate
+ORD-00095,2022-10-21,Clothing,Office Trousers,455.1,165.94,West,Small Business
+ORD-00096,2022-06-01,Clothing,Casual Jacket,337.52,67.0,Central,Corporate
+ORD-00097,2024-02-27,Office Supplies,Stapler Set,82.46,12.66,North,Corporate
+ORD-00098,2022-01-17,Office Supplies,Sticky Notes Pack,151.49,39.73,South,Home Office
+ORD-00099,2023-03-25,Clothing,Casual Jacket,,105.1,,Home Office
+ORD-00100,2023-09-25,Furniture,Ergonomic Footrest,146.71,54.04,East,Consumer
+ORD-00101,2023-02-16,Office Supplies,Binder Clips Pack,194.58,71.94,South,Corporate
+ORD-00102,2023-11-25,Furniture,Bookshelf 5-Tier,982.36,126.69,South,Home Office
+ORD-00103,2024-03-19,Clothing,Office Trousers,352.77,100.65,North,Consumer
+ORD-00104,2024-08-23,Clothing,Casual Jacket,461.87,58.88,East,Corporate
+ORD-00105,2024-04-16,Technology,Webcam HD,410.02,37.17,South,Home Office
+ORD-00106,2024-07-18,Furniture,Conference Table,1429.13,,West,Small Business
+ORD-00107,2024-04-15,Furniture,Filing Cabinet,491.64,101.1,East,Small Business
+ORD-00108,2024-01-05,Furniture,Bookshelf 5-Tier,486.23,164.57,East,Home Office
+ORD-00109,2022-04-14,Technology,Webcam HD,1616.23,119.62,West,Consumer
+ORD-00110,2023-11-04,Furniture,Conference Table,1565.33,617.38,West,Corporate
+ORD-00111,2022-08-14,Furniture,Conference Table,136.09,18.14,North,Corporate
+ORD-00112,2022-04-18,Office Supplies,Sticky Notes Pack,31.59,6.54,West,Home Office
+ORD-00113,2024-07-14,Office Supplies,Whiteboard Markers,18.24,6.45,Central,Consumer
+ORD-00114,2024-09-07,Office Supplies,Stapler Set,30.51,6.26,East,Consumer
+ORD-00115,2022-05-15,Technology,USB-C Hub,427.14,78.3,Central,Corporate
+ORD-00116,2022-07-23,Office Supplies,Stapler Set,134.4,32.65,Central,Small Business
+ORD-00117,2024-04-27,Furniture,Filing Cabinet,734.9,146.52,South,Corporate
+ORD-00118,2022-05-18,Office Supplies,Printer Paper A4,92.06,16.61,West,Small Business
+ORD-00119,2022-09-08,Furniture,Conference Table,1323.05,490.25,East,Home Office
+ORD-00120,2023-12-22,Technology,USB-C Hub,502.43,174.12,Central,Home Office
+ORD-00121,2022-08-24,Office Supplies,File Folders,163.37,63.89,Central,Home Office
+ORD-00122,2023-01-05,Technology,Mechanical Keyboard,691.89,78.52,North,Consumer
+ORD-00123,2022-10-18,Furniture,Conference Table,1898.69,344.93,South,Consumer
+ORD-00124,2023-10-01,Clothing,Casual Jacket,114.7,7.85,West,Home Office
+ORD-00125,2023-07-12,Furniture,Conference Table,693.62,87.01,East,Consumer
+ORD-00126,2023-08-04,Technology,USB-C Hub,1420.79,180.7,South,Consumer
+ORD-00127,2023-03-09,Technology,Laptop Pro 15,1581.23,354.33,West,Home Office
+ORD-00128,2024-12-26,Clothing,Formal Shirt,536.63,40.37,West,Small Business
+ORD-00129,2022-06-09,Technology,"Monitor 27""",,343.69,East,Small Business
+ORD-00130,2022-12-18,Technology,"Monitor 27""",2135.09,172.61,East,Home Office
+ORD-00131,2024-12-09,Technology,Wireless Mouse,444.03,143.28,South,Small Business
+ORD-00132,2023-12-17,Technology,Mechanical Keyboard,1081.57,93.0,,Corporate
+ORD-00133,2022-06-04,Office Supplies,Ball Pens Box,103.88,32.82,,Corporate
+ORD-00134,2023-10-10,Clothing,Office Trousers,242.15,35.39,Central,Home Office
+ORD-00135,2023-09-28,Technology,USB-C Hub,1031.14,284.22,Central,Consumer
+ORD-00136,2024-08-05,Technology,Mechanical Keyboard,1244.59,458.22,Central,Small Business
+ORD-00137,2024-10-23,Furniture,Bookshelf 5-Tier,242.61,41.29,Central,Small Business
+ORD-00138,2023-05-23,Technology,Mechanical Keyboard,1473.72,261.39,West,Consumer
+ORD-00139,2022-04-18,Office Supplies,Stapler Set,22.52,6.47,South,
+ORD-00140,2023-11-14,Office Supplies,Printer Paper A4,239.44,66.95,Central,Corporate
+ORD-00141,2023-09-27,Clothing,Formal Shirt,107.51,31.82,Central,Consumer
+ORD-00142,2022-02-07,Technology,Webcam HD,852.68,187.76,South,
+ORD-00143,2023-08-29,Furniture,Standing Desk,241.6,86.8,West,Consumer
+ORD-00144,2024-02-11,Technology,Webcam HD,477.65,174.79,North,Corporate
+ORD-00145,2023-05-02,Clothing,Business Suit,402.71,53.12,South,Home Office
+ORD-00146,2024-01-24,Furniture,Bookshelf 5-Tier,898.59,289.65,South,Corporate
+ORD-00147,2023-05-28,Clothing,Formal Shirt,470.43,140.65,West,Corporate
+ORD-00148,2023-07-13,Technology,USB-C Hub,1008.77,371.91,East,
+ORD-00149,2022-04-20,Clothing,Casual Jacket,86.72,11.15,East,Small Business
+ORD-00150,2022-10-09,Office Supplies,Sticky Notes Pack,129.7,40.93,North,Corporate
+ORD-00151,2022-06-12,Clothing,Polo T-Shirt,473.1,124.48,Central,Consumer
+ORD-00152,2023-09-09,Clothing,Business Suit,330.26,23.77,North,Corporate
+ORD-00153,2024-11-21,Clothing,Office Trousers,65.92,11.44,Central,Consumer
+ORD-00154,2022-05-19,Clothing,Formal Shirt,278.43,15.9,East,Home Office
+ORD-00155,2023-06-04,Clothing,Business Suit,158.51,44.38,South,Home Office
+ORD-00156,2022-10-01,Technology,External SSD 1TB,363.75,117.38,Central,Home Office
+ORD-00157,2022-05-10,Clothing,Polo T-Shirt,140.72,46.0,West,Corporate
+ORD-00158,2024-08-27,Technology,USB-C Hub,655.96,212.07,North,Small Business
+ORD-00159,2024-06-13,Office Supplies,Printer Paper A4,179.98,70.34,East,Home Office
+ORD-00160,2022-06-19,Clothing,Polo T-Shirt,420.05,101.2,North,Home Office
+ORD-00161,2023-08-29,Office Supplies,Sticky Notes Pack,90.96,15.74,East,Home Office
+ORD-00162,2023-07-17,Technology,Webcam HD,1351.04,259.63,North,Small Business
+ORD-00163,2022-03-13,Furniture,Executive Chair,430.39,164.54,West,Small Business
+ORD-00164,2024-01-30,Technology,Mechanical Keyboard,869.62,164.63,West,Small Business
+ORD-00165,2023-01-17,Office Supplies,Ball Pens Box,116.72,16.47,East,Consumer
+ORD-00166,2024-10-02,Clothing,Formal Shirt,166.0,49.75,Central,Home Office
+ORD-00167,2022-05-13,Technology,External SSD 1TB,1189.99,355.03,North,Home Office
+ORD-00168,2022-09-06,Furniture,Bookshelf 5-Tier,1208.89,213.14,Central,Corporate
+ORD-00169,2022-06-26,Office Supplies,Stapler Set,146.22,28.33,Central,Corporate
+ORD-00170,2023-10-12,Clothing,Office Trousers,266.54,95.23,East,Corporate
+ORD-00171,2022-09-12,Furniture,Standing Desk,525.77,67.78,South,Consumer
+ORD-00172,2023-02-07,Office Supplies,File Folders,,8.0,East,Home Office
+ORD-00173,2022-12-17,Furniture,Conference Table,1441.55,356.45,Central,Corporate
+ORD-00174,2023-03-08,Technology,Laptop Pro 15,1580.53,425.96,East,Home Office
+ORD-00175,2023-05-17,Office Supplies,Binder Clips Pack,66.51,4.72,North,Small Business
+ORD-00176,2023-02-22,Clothing,Polo T-Shirt,193.69,76.66,South,Small Business
+ORD-00177,2024-11-20,Office Supplies,Stapler Set,128.22,17.54,West,Home Office
+ORD-00178,2024-05-06,Technology,Laptop Pro 15,646.89,163.14,North,Small Business
+ORD-00179,2024-11-20,Office Supplies,Ball Pens Box,135.85,25.49,West,Small Business
+ORD-00180,2022-04-10,Clothing,Formal Shirt,344.42,73.95,West,Home Office
+ORD-00181,2022-10-02,Technology,External SSD 1TB,2324.95,442.21,East,Small Business
+ORD-00182,2022-05-31,Furniture,Bookshelf 5-Tier,730.5,195.87,Central,Home Office
+ORD-00183,2024-02-04,Technology,Wireless Mouse,1630.82,195.16,East,Small Business
+ORD-00184,2022-03-21,Clothing,Office Trousers,255.64,67.03,East,Consumer
+ORD-00185,2022-11-29,Furniture,Bookshelf 5-Tier,1252.03,284.91,Central,Home Office
+ORD-00186,2022-02-04,Clothing,Office Trousers,312.67,102.83,North,Small Business
+ORD-00187,2023-04-12,Technology,Mechanical Keyboard,1498.52,399.97,South,Home Office
+ORD-00188,2022-08-14,Clothing,Formal Shirt,235.83,28.62,West,Consumer
+ORD-00189,2023-10-28,Clothing,Business Suit,624.66,131.73,West,Corporate
+ORD-00190,2024-09-18,Office Supplies,Whiteboard Markers,116.04,45.32,North,Home Office
+ORD-00191,2024-09-28,Office Supplies,File Folders,187.4,27.31,North,Corporate
+ORD-00192,2024-03-19,Technology,Mechanical Keyboard,1673.08,252.08,Central,Small Business
+ORD-00193,2024-09-08,Technology,USB-C Hub,585.18,84.89,South,Home Office
+ORD-00194,2023-05-12,Technology,Mechanical Keyboard,291.38,24.79,Central,Corporate
+ORD-00195,2022-10-09,Office Supplies,Binder Clips Pack,242.49,91.48,,
+ORD-00196,2023-10-20,Clothing,Polo T-Shirt,446.59,58.63,West,Home Office
+ORD-00197,2022-03-16,Technology,Wireless Mouse,1994.91,771.52,South,Corporate
+ORD-00198,2022-08-08,Office Supplies,Sticky Notes Pack,96.33,22.49,East,Home Office
+ORD-00199,2023-01-30,Furniture,Conference Table,562.96,169.74,South,Home Office
+ORD-00200,2023-01-31,Technology,Webcam HD,515.89,118.83,North,Home Office
+ORD-00201,2022-10-15,Technology,"Monitor 27""",1377.24,284.2,East,Corporate
+ORD-00202,2023-06-20,Office Supplies,Printer Paper A4,21.8,3.43,North,Consumer
+ORD-00203,2023-08-28,Clothing,Office Trousers,265.18,55.49,North,Consumer
+ORD-00204,2023-03-24,Office Supplies,Stapler Set,123.2,28.82,Central,Small Business
+ORD-00205,2022-05-07,Office Supplies,Sticky Notes Pack,48.41,5.21,Central,Consumer
+ORD-00206,2022-07-06,Clothing,Business Suit,,21.37,West,Small Business
+ORD-00207,2022-02-14,Technology,Mechanical Keyboard,912.71,60.1,South,Home Office
+ORD-00208,2022-05-22,Office Supplies,Binder Clips Pack,64.55,6.29,East,Consumer
+ORD-00209,2024-02-13,Clothing,Casual Jacket,,81.58,South,
+ORD-00210,2024-12-19,Office Supplies,Sticky Notes Pack,219.2,86.03,West,Small Business
+ORD-00211,2023-04-16,Clothing,Office Trousers,471.83,143.32,South,Small Business
+ORD-00212,2023-05-08,Technology,Laptop Pro 15,570.95,169.09,South,Consumer
+ORD-00213,2024-06-17,Technology,Wireless Mouse,621.81,140.76,East,Small Business
+ORD-00214,2023-10-19,Office Supplies,Ball Pens Box,256.47,49.95,,Home Office
+ORD-00215,2024-05-24,Office Supplies,Sticky Notes Pack,75.44,13.84,Central,Corporate
+ORD-00216,2022-11-02,Office Supplies,Binder Clips Pack,145.87,18.8,South,Small Business
+ORD-00217,2024-05-03,Furniture,Filing Cabinet,287.73,79.51,East,Small Business
+ORD-00218,2022-04-16,Clothing,Casual Jacket,443.13,51.34,East,Corporate
+ORD-00219,2023-09-13,Furniture,Filing Cabinet,121.47,11.06,West,Home Office
+ORD-00220,2024-03-23,Clothing,Formal Shirt,221.3,52.4,Central,Corporate
+ORD-00221,2024-11-16,Office Supplies,Printer Paper A4,211.3,66.89,North,Home Office
+ORD-00222,2024-04-27,Office Supplies,Ball Pens Box,150.84,36.75,North,Home Office
+ORD-00223,2023-11-07,Clothing,Casual Jacket,387.13,147.19,West,Corporate
+ORD-00224,2024-08-01,Office Supplies,Printer Paper A4,42.16,9.31,South,Small Business
+ORD-00225,2022-04-10,Technology,Mechanical Keyboard,1575.81,468.82,East,Consumer
+ORD-00226,2024-02-04,Technology,Wireless Mouse,308.81,86.7,Central,Small Business
+ORD-00227,2022-01-25,Technology,Laptop Pro 15,230.11,51.95,Central,Small Business
+ORD-00228,2024-12-09,Clothing,Formal Shirt,541.9,77.8,East,Consumer
+ORD-00229,2024-07-29,Clothing,Business Suit,357.82,124.08,North,Small Business
+ORD-00230,2024-02-12,Technology,Laptop Pro 15,1194.86,268.78,South,Small Business
+ORD-00231,2024-12-17,Clothing,Casual Jacket,469.99,116.73,Central,Consumer
+ORD-00232,2022-03-09,Office Supplies,Sticky Notes Pack,12.98,1.3,East,Home Office
+ORD-00233,2023-05-08,Clothing,Business Suit,293.25,54.06,North,Corporate
+ORD-00234,2022-04-20,Furniture,Ergonomic Footrest,425.0,112.56,East,Home Office
+ORD-00235,2024-07-11,Clothing,Casual Jacket,244.33,70.34,East,Home Office
+ORD-00236,2023-05-20,Clothing,Business Suit,370.25,100.66,Central,Home Office
+ORD-00237,2022-07-07,Clothing,Casual Jacket,171.39,16.52,North,Consumer
+ORD-00238,2022-07-31,Furniture,Filing Cabinet,,97.39,South,Small Business
+ORD-00239,2024-03-05,Clothing,Business Suit,496.73,67.04,North,Small Business
+ORD-00240,2022-10-12,Furniture,Ergonomic Footrest,618.5,90.66,South,Corporate
+ORD-00241,2023-05-31,Office Supplies,Stapler Set,104.2,21.91,East,Home Office
+ORD-00242,2023-11-12,Furniture,Bookshelf 5-Tier,821.4,164.87,East,Small Business
+ORD-00243,2024-09-08,Furniture,Bookshelf 5-Tier,1450.4,425.31,North,Corporate
+ORD-00244,2024-02-10,Clothing,Office Trousers,469.43,56.3,West,Home Office
+ORD-00245,2024-08-03,Furniture,Ergonomic Footrest,,29.2,Central,Consumer
+ORD-00246,2023-05-11,Clothing,Polo T-Shirt,219.65,45.51,West,Home Office
+ORD-00247,2022-03-17,Clothing,Office Trousers,291.61,79.72,South,Small Business
+ORD-00248,2022-12-07,Technology,Laptop Pro 15,1773.98,336.82,West,Home Office
+ORD-00249,2022-01-22,Office Supplies,File Folders,151.9,44.15,South,Consumer
+ORD-00250,2024-08-06,Furniture,Filing Cabinet,924.03,54.15,North,Small Business
+ORD-00251,2022-08-26,Technology,USB-C Hub,1696.37,550.46,South,Consumer
+ORD-00252,2024-06-16,Clothing,Casual Jacket,70.11,20.95,South,Consumer
+ORD-00253,2022-12-03,Technology,External SSD 1TB,2436.02,404.01,North,Consumer
+ORD-00254,2023-01-13,Clothing,Polo T-Shirt,381.82,137.11,West,Small Business
+ORD-00255,2022-01-10,Clothing,Office Trousers,413.93,29.76,South,Small Business
+ORD-00256,2024-01-20,Technology,External SSD 1TB,786.77,184.66,Central,Corporate
+ORD-00257,2022-08-22,Office Supplies,Whiteboard Markers,127.3,37.82,South,Small Business
+ORD-00258,2022-10-02,Office Supplies,Whiteboard Markers,41.89,4.17,Central,Consumer
+ORD-00259,2024-02-25,Clothing,Polo T-Shirt,463.62,174.2,Central,Corporate
+ORD-00260,2023-08-15,Furniture,Conference Table,540.41,,West,Small Business
+ORD-00261,2024-02-26,Technology,"Monitor 27""",1934.89,378.21,West,Corporate
+ORD-00262,2022-03-05,Clothing,Polo T-Shirt,151.18,22.83,West,Consumer
+ORD-00263,2022-08-22,Clothing,Office Trousers,293.92,92.55,South,Consumer
+ORD-00264,2022-07-29,Clothing,Office Trousers,443.66,27.19,West,Small Business
+ORD-00265,2022-08-29,Office Supplies,Printer Paper A4,164.03,28.33,East,Small Business
+ORD-00266,2023-02-28,Clothing,Formal Shirt,289.53,74.96,Central,Corporate
+ORD-00267,2023-07-02,Furniture,Bookshelf 5-Tier,820.18,79.93,North,Home Office
+ORD-00268,2022-09-29,Clothing,Business Suit,392.66,112.57,North,Corporate
+ORD-00269,2024-04-28,Clothing,Formal Shirt,396.0,75.64,Central,Home Office
+ORD-00270,2024-09-26,Office Supplies,Binder Clips Pack,157.09,48.04,North,Small Business
+ORD-00271,2023-03-23,Clothing,Casual Jacket,195.29,29.15,East,Small Business
+ORD-00272,2022-04-10,Furniture,Conference Table,976.65,366.54,South,Home Office
+ORD-00273,2024-05-26,Furniture,Filing Cabinet,1064.03,112.41,South,Consumer
+ORD-00274,2022-06-18,Office Supplies,Sticky Notes Pack,41.45,6.5,North,Home Office
+ORD-00275,2022-01-03,Furniture,Filing Cabinet,209.11,43.03,East,Consumer
+ORD-00276,2024-05-14,Technology,Webcam HD,1449.26,481.28,North,Consumer
+ORD-00277,2022-10-08,Technology,USB-C Hub,1155.57,331.65,North,Home Office
+ORD-00278,2022-12-03,Technology,Mechanical Keyboard,1289.83,250.35,Central,Consumer
+ORD-00279,2022-10-14,Clothing,Formal Shirt,628.5,100.61,East,Consumer
+ORD-00280,2023-05-24,Furniture,Standing Desk,940.01,274.17,North,Consumer
+ORD-00281,2024-03-13,Office Supplies,Ball Pens Box,180.6,40.31,Central,Corporate
+ORD-00282,2024-12-17,Technology,Wireless Mouse,2339.62,433.75,South,
+ORD-00283,2024-08-22,Clothing,Casual Jacket,80.39,11.4,Central,Corporate
+ORD-00284,2024-10-23,Technology,Laptop Pro 15,2055.04,489.47,South,Home Office
+ORD-00285,2022-06-11,Furniture,Bookshelf 5-Tier,384.48,71.8,East,Home Office
+ORD-00286,2022-04-29,Technology,USB-C Hub,640.06,44.33,South,Corporate
+ORD-00287,2022-01-24,Furniture,Executive Chair,1434.22,,East,Corporate
+ORD-00288,2022-08-30,Furniture,Bookshelf 5-Tier,141.1,10.21,West,Home Office
+ORD-00289,2022-04-24,Technology,"Monitor 27""",1099.3,94.56,South,Home Office
+ORD-00290,2022-04-01,Technology,Wireless Mouse,1745.64,649.52,Central,Consumer
+ORD-00291,2023-04-05,Furniture,Executive Chair,682.76,52.75,Central,Small Business
+ORD-00292,2023-01-03,Office Supplies,Sticky Notes Pack,18.73,6.69,Central,Consumer
+ORD-00293,2022-06-26,Office Supplies,File Folders,48.13,7.53,North,Home Office
+ORD-00294,2023-02-05,Furniture,Filing Cabinet,865.18,325.6,North,Small Business
+ORD-00295,2022-01-20,Technology,Wireless Mouse,1911.78,582.19,Central,Home Office
+ORD-00296,2024-05-09,Technology,Wireless Mouse,1085.65,89.63,Central,Corporate
+ORD-00297,2024-07-27,Furniture,Conference Table,218.86,73.75,South,
+ORD-00298,2024-06-09,Technology,Mechanical Keyboard,1392.4,520.92,Central,Consumer
+ORD-00299,2023-07-11,Clothing,Casual Jacket,396.57,34.95,North,Small Business
+ORD-00300,2023-10-06,Technology,Wireless Mouse,1211.24,191.26,South,Small Business
+ORD-00301,2022-11-19,Office Supplies,File Folders,187.06,23.43,East,Consumer
+ORD-00302,2023-12-30,Office Supplies,Ball Pens Box,86.81,9.62,East,Corporate
+ORD-00303,2022-07-13,Clothing,Polo T-Shirt,55.38,18.86,Central,Corporate
+ORD-00304,2024-02-02,Furniture,Standing Desk,1412.6,524.22,West,Small Business
+ORD-00305,2024-06-27,Technology,Laptop Pro 15,1656.74,153.89,East,Corporate
+ORD-00306,2024-03-19,Clothing,Business Suit,209.27,,West,Small Business
+ORD-00307,2022-03-12,Office Supplies,Printer Paper A4,132.98,47.74,South,Corporate
+ORD-00308,2024-02-24,Clothing,Business Suit,286.62,77.61,East,Home Office
+ORD-00309,2024-09-19,Technology,"Monitor 27""",819.26,48.44,North,Small Business
+ORD-00310,2024-08-24,Furniture,Executive Chair,1173.58,99.81,North,Consumer
+ORD-00311,2023-03-26,Furniture,Bookshelf 5-Tier,1475.73,585.92,Central,Consumer
+ORD-00312,2024-01-05,Furniture,Standing Desk,139.49,34.49,West,Home Office
+ORD-00313,2022-12-26,Furniture,Filing Cabinet,,68.93,Central,Home Office
+ORD-00314,2022-09-25,Technology,USB-C Hub,813.37,57.62,Central,Corporate
+ORD-00315,2024-12-13,Furniture,Conference Table,1878.22,353.97,West,Consumer
+ORD-00316,2022-10-07,Technology,USB-C Hub,2543.51,560.89,North,Home Office
+ORD-00317,2023-04-03,Office Supplies,Ball Pens Box,81.89,12.54,Central,
+ORD-00318,2022-03-08,Furniture,Ergonomic Footrest,545.5,149.4,East,Small Business
+ORD-00319,2022-06-09,Technology,"Monitor 27""",628.39,50.93,West,Home Office
+ORD-00320,2023-03-06,Office Supplies,Stapler Set,58.77,2.96,East,Home Office
+ORD-00321,2024-04-27,Clothing,Polo T-Shirt,95.64,20.83,South,Corporate
+ORD-00322,2022-03-10,Furniture,Standing Desk,546.2,59.83,South,Consumer
+ORD-00323,2023-11-24,Clothing,Formal Shirt,83.13,31.58,East,Consumer
+ORD-00324,2022-04-20,Furniture,Conference Table,387.77,117.38,South,Corporate
+ORD-00325,2023-05-02,Office Supplies,Binder Clips Pack,114.44,7.91,North,Home Office
+ORD-00326,2024-09-10,Technology,"Monitor 27""",559.41,44.01,East,Home Office
+ORD-00327,2024-09-28,Technology,USB-C Hub,1810.78,325.68,South,Small Business
+ORD-00328,2022-04-02,Clothing,Casual Jacket,170.85,12.23,West,Small Business
+ORD-00329,2023-04-11,Technology,Laptop Pro 15,1196.48,284.08,North,Small Business
+ORD-00330,2023-09-05,Clothing,Office Trousers,275.95,100.77,West,Small Business
+ORD-00331,2022-12-09,Furniture,Executive Chair,1601.4,633.99,South,Corporate
+ORD-00332,2023-10-17,Clothing,Formal Shirt,292.04,55.22,West,Home Office
+ORD-00333,2022-01-26,Office Supplies,File Folders,,21.32,North,Small Business
+ORD-00334,2022-08-05,Furniture,Conference Table,241.39,41.12,Central,Consumer
+ORD-00335,2024-08-26,Clothing,Casual Jacket,323.89,94.83,South,Small Business
+ORD-00336,2022-04-11,Technology,"Monitor 27""",1542.35,518.36,North,Corporate
+ORD-00337,2022-07-21,Office Supplies,Printer Paper A4,67.09,21.53,North,Small Business
+ORD-00338,2023-01-20,Office Supplies,Printer Paper A4,87.36,20.16,South,Consumer
+ORD-00339,2022-05-15,Office Supplies,File Folders,35.77,12.8,East,Corporate
+ORD-00340,2022-04-29,Technology,Wireless Mouse,649.08,,West,Corporate
+ORD-00341,2022-03-04,Clothing,Office Trousers,482.23,104.21,South,Consumer
+ORD-00342,2022-07-05,Office Supplies,Printer Paper A4,40.95,15.88,West,Home Office
+ORD-00343,2023-07-06,Furniture,Ergonomic Footrest,818.59,236.38,West,Corporate
+ORD-00344,2023-04-04,Clothing,Formal Shirt,485.16,,West,Consumer
+ORD-00345,2023-06-01,Clothing,Polo T-Shirt,330.62,84.17,North,Small Business
+ORD-00346,2023-09-04,Technology,Mechanical Keyboard,1431.94,234.55,North,Home Office
+ORD-00347,2022-11-04,Office Supplies,Printer Paper A4,27.02,9.01,North,Corporate
+ORD-00348,2024-10-15,Clothing,Casual Jacket,292.14,,West,Consumer
+ORD-00349,2024-01-05,Furniture,Bookshelf 5-Tier,1283.59,145.56,West,Small Business
+ORD-00350,2023-01-10,Technology,"Monitor 27""",1904.46,244.08,West,Home Office
+ORD-00351,2023-06-18,Office Supplies,Stapler Set,32.38,8.81,North,Home Office
+ORD-00352,2024-02-21,Technology,"Monitor 27""",1153.71,458.39,West,Consumer
+ORD-00353,2022-10-21,Office Supplies,Stapler Set,205.4,55.63,Central,Small Business
+ORD-00354,2024-07-14,Furniture,Bookshelf 5-Tier,1165.67,258.02,East,Consumer
+ORD-00355,2024-05-29,Technology,Wireless Mouse,926.11,110.94,Central,Small Business
+ORD-00356,2022-02-06,Office Supplies,Sticky Notes Pack,57.28,9.77,North,Corporate
+ORD-00357,2022-12-09,Furniture,Executive Chair,,49.49,,Home Office
+ORD-00358,2024-09-30,Office Supplies,Stapler Set,190.14,36.35,West,Home Office
+ORD-00359,2022-02-14,Furniture,Standing Desk,336.58,21.23,West,Corporate
+ORD-00360,2022-04-09,Office Supplies,File Folders,13.75,2.69,Central,Consumer
+ORD-00361,2024-08-29,Clothing,Business Suit,54.19,10.69,Central,Home Office
+ORD-00362,2022-10-08,Technology,Webcam HD,1240.05,184.7,Central,Home Office
+ORD-00363,2023-06-23,Technology,"Monitor 27""",1696.7,180.07,West,Corporate
+ORD-00364,2023-04-26,Clothing,Formal Shirt,425.85,,South,Home Office
+ORD-00365,2022-07-27,Furniture,Executive Chair,1002.07,142.74,Central,
+ORD-00366,2023-08-19,Technology,Laptop Pro 15,848.39,295.19,,
+ORD-00367,2023-11-05,Technology,Laptop Pro 15,1096.61,,West,Corporate
+ORD-00368,2024-03-30,Office Supplies,Ball Pens Box,83.29,27.48,East,Small Business
+ORD-00369,2022-11-23,Furniture,Executive Chair,1788.43,363.69,West,Consumer
+ORD-00370,2022-09-25,Clothing,Casual Jacket,248.31,17.92,Central,Consumer
+ORD-00371,2023-11-24,Office Supplies,Sticky Notes Pack,165.71,50.43,Central,Corporate
+ORD-00372,2022-04-22,Clothing,Casual Jacket,,58.38,South,Corporate
+ORD-00373,2023-05-09,Furniture,Executive Chair,489.42,89.33,South,Home Office
+ORD-00374,2024-07-06,Furniture,Executive Chair,797.84,248.0,South,Small Business
+ORD-00375,2022-03-15,Technology,Laptop Pro 15,1202.84,320.77,South,Small Business
+ORD-00376,2024-07-23,Office Supplies,Whiteboard Markers,20.31,4.25,Central,Corporate
+ORD-00377,2022-07-19,Clothing,Casual Jacket,423.45,164.11,South,Consumer
+ORD-00378,2022-08-06,Office Supplies,Whiteboard Markers,,11.1,Central,Home Office
+ORD-00379,2023-01-20,Technology,USB-C Hub,417.34,48.7,Central,Corporate
+ORD-00380,2022-09-10,Office Supplies,Sticky Notes Pack,135.11,13.12,South,Consumer
+ORD-00381,2024-06-05,Clothing,Business Suit,464.52,52.04,Central,Consumer
+ORD-00382,2024-03-04,Furniture,Ergonomic Footrest,948.63,186.44,West,Consumer
+ORD-00383,2023-08-26,Furniture,Bookshelf 5-Tier,286.72,89.44,South,Home Office
+ORD-00384,2023-03-22,Office Supplies,File Folders,65.21,18.61,Central,Home Office
+ORD-00385,2022-08-25,Furniture,Conference Table,887.19,264.86,Central,Home Office
+ORD-00386,2024-12-06,Office Supplies,File Folders,26.11,3.75,South,Consumer
+ORD-00387,2022-05-08,Furniture,Bookshelf 5-Tier,513.2,171.88,North,Corporate
+ORD-00388,2024-03-07,Technology,Mechanical Keyboard,627.67,177.36,Central,Corporate
+ORD-00389,2022-04-21,Clothing,Polo T-Shirt,401.42,142.32,South,Home Office
+ORD-00390,2023-02-01,Furniture,Ergonomic Footrest,348.4,38.61,North,Corporate
+ORD-00391,2023-07-26,Technology,"Monitor 27""",1201.88,,East,Small Business
+ORD-00392,2022-04-15,Furniture,Executive Chair,975.51,318.47,West,Home Office
+ORD-00393,2023-01-12,Office Supplies,Sticky Notes Pack,40.28,7.7,North,Corporate
+ORD-00394,2023-11-10,Office Supplies,Ball Pens Box,198.91,79.33,West,Home Office
+ORD-00395,2023-05-08,Technology,Laptop Pro 15,1828.09,528.12,North,Small Business
+ORD-00396,2023-06-10,Office Supplies,Stapler Set,183.15,33.19,East,Small Business
+ORD-00397,2023-01-30,Clothing,Polo T-Shirt,487.23,156.24,East,Home Office
+ORD-00398,2023-03-13,Technology,Webcam HD,1756.91,519.98,East,Corporate
+ORD-00399,2024-07-29,Clothing,Business Suit,130.1,17.98,West,Consumer
+ORD-00400,2024-04-14,Technology,Mechanical Keyboard,898.46,256.65,West,Home Office
+ORD-00401,2022-04-04,Technology,Webcam HD,1461.59,475.62,Central,Consumer
+ORD-00402,2024-06-15,Office Supplies,Whiteboard Markers,15.86,,East,Home Office
+ORD-00403,2023-09-03,Clothing,Office Trousers,378.2,68.3,North,Corporate
+ORD-00404,2022-09-10,Technology,Mechanical Keyboard,275.19,21.96,Central,Corporate
+ORD-00405,2024-04-25,Furniture,Ergonomic Footrest,1292.04,343.57,North,Corporate
+ORD-00406,2022-04-22,Office Supplies,Ball Pens Box,198.92,48.21,East,Corporate
+ORD-00407,2022-07-21,Office Supplies,Binder Clips Pack,190.79,54.37,East,Home Office
+ORD-00408,2023-02-01,Furniture,Executive Chair,,185.98,North,Consumer
+ORD-00409,2022-12-12,Office Supplies,File Folders,67.72,13.72,North,Small Business
+ORD-00410,2024-08-05,Office Supplies,Ball Pens Box,102.52,28.29,North,Small Business
+ORD-00411,2023-02-07,Technology,External SSD 1TB,673.82,,North,Corporate
+ORD-00412,2023-03-12,Technology,External SSD 1TB,1831.35,394.17,Central,Small Business
+ORD-00413,2023-08-19,Furniture,Bookshelf 5-Tier,801.57,43.05,South,Corporate
+ORD-00414,2024-07-02,Furniture,Conference Table,892.9,90.33,,
+ORD-00415,2024-09-25,Clothing,Casual Jacket,350.86,81.14,East,Corporate
+ORD-00416,2022-04-06,Office Supplies,Stapler Set,29.61,8.05,South,Small Business
+ORD-00417,2024-02-11,Office Supplies,File Folders,134.13,30.96,North,Corporate
+ORD-00418,2023-12-24,Clothing,Formal Shirt,584.0,30.55,Central,Small Business
+ORD-00419,2022-06-07,Furniture,Filing Cabinet,493.13,128.56,West,Corporate
+ORD-00420,2023-11-08,Technology,Webcam HD,1945.4,207.06,West,Small Business
+ORD-00421,2022-09-19,Clothing,Business Suit,67.64,16.93,West,Consumer
+ORD-00422,2024-11-24,Technology,Wireless Mouse,2502.28,755.29,North,Corporate
+ORD-00423,2024-08-23,Office Supplies,Sticky Notes Pack,167.77,55.05,West,Small Business
+ORD-00424,2022-12-10,Furniture,Conference Table,753.66,98.3,Central,Home Office
+ORD-00425,2023-02-19,Clothing,Formal Shirt,421.93,110.52,East,Consumer
+ORD-00426,2024-12-24,Furniture,Filing Cabinet,343.88,89.83,Central,Consumer
+ORD-00427,2024-01-29,Technology,External SSD 1TB,1774.68,388.2,South,Small Business
+ORD-00428,2024-05-21,Clothing,Casual Jacket,436.57,65.11,Central,Consumer
+ORD-00429,2022-01-15,Clothing,Casual Jacket,344.55,100.17,West,Consumer
+ORD-00430,2022-11-13,Office Supplies,Stapler Set,77.54,19.2,North,Consumer
+ORD-00431,2024-04-26,Office Supplies,Binder Clips Pack,43.96,9.64,South,Corporate
+ORD-00432,2022-10-10,Office Supplies,Whiteboard Markers,197.71,58.28,North,Small Business
+ORD-00433,2023-11-25,Furniture,Executive Chair,1247.53,232.27,,Small Business
+ORD-00434,2024-08-23,Technology,External SSD 1TB,1866.55,145.62,East,Corporate
+ORD-00435,2024-12-03,Technology,Webcam HD,930.34,103.59,South,Small Business
+ORD-00436,2024-11-27,Clothing,Polo T-Shirt,366.75,48.08,East,Corporate
+ORD-00437,2023-05-05,Furniture,Ergonomic Footrest,1465.9,278.23,East,Home Office
+ORD-00438,2024-11-26,Clothing,Polo T-Shirt,386.51,117.56,Central,Corporate
+ORD-00439,2023-02-03,Office Supplies,Printer Paper A4,10.88,2.47,North,Corporate
+ORD-00440,2022-08-28,Technology,Mechanical Keyboard,1645.3,413.32,North,Home Office
+ORD-00441,2023-05-14,Clothing,Polo T-Shirt,257.32,65.72,Central,Small Business
+ORD-00442,2022-05-19,Technology,"Monitor 27""",888.81,293.36,East,Home Office
+ORD-00443,2023-06-24,Clothing,Casual Jacket,419.48,32.14,Central,Consumer
+ORD-00444,2023-03-24,Furniture,Filing Cabinet,476.71,175.66,,Home Office
+ORD-00445,2023-06-28,Clothing,Formal Shirt,328.37,34.35,West,Corporate
+ORD-00446,2022-01-14,Technology,Laptop Pro 15,1575.64,421.06,,Small Business
+ORD-00447,2023-01-10,Clothing,Office Trousers,149.94,37.76,North,Small Business
+ORD-00448,2022-03-08,Technology,Mechanical Keyboard,1104.46,432.7,South,Small Business
+ORD-00449,2023-03-08,Clothing,Casual Jacket,437.83,50.57,East,Consumer
+ORD-00450,2023-12-04,Office Supplies,Ball Pens Box,65.0,11.72,North,Small Business
+ORD-00451,2022-09-26,Clothing,Casual Jacket,374.37,124.08,South,Corporate
+ORD-00452,2022-11-03,Clothing,Polo T-Shirt,143.67,52.1,West,Corporate
+ORD-00453,2023-05-29,Office Supplies,File Folders,85.7,6.09,South,Home Office
+ORD-00454,2023-11-17,Office Supplies,Stapler Set,150.7,25.69,East,Small Business
+ORD-00455,2022-12-24,Clothing,Business Suit,363.61,116.78,North,Corporate
+ORD-00456,2024-08-07,Clothing,Business Suit,413.47,69.5,South,Home Office
+ORD-00457,2023-12-05,Clothing,Business Suit,,61.04,East,Corporate
+ORD-00458,2024-04-27,Office Supplies,Stapler Set,33.76,4.66,North,Small Business
+ORD-00459,2022-07-30,Technology,Wireless Mouse,372.0,118.98,West,Small Business
+ORD-00460,2022-06-22,Technology,Laptop Pro 15,1378.7,206.06,North,Corporate
+ORD-00461,2022-02-28,Furniture,Standing Desk,599.58,128.02,Central,Corporate
+ORD-00462,2022-12-29,Office Supplies,Whiteboard Markers,197.98,40.04,South,Corporate
+ORD-00463,2022-07-03,Office Supplies,Printer Paper A4,59.36,2.97,South,Corporate
+ORD-00464,2024-12-31,Furniture,Bookshelf 5-Tier,1808.2,96.19,North,Small Business
+ORD-00465,2022-01-15,Clothing,Casual Jacket,246.7,33.91,Central,Corporate
+ORD-00466,2022-06-12,Clothing,Polo T-Shirt,459.48,152.85,West,Home Office
+ORD-00467,2024-04-25,Office Supplies,Printer Paper A4,35.96,7.53,Central,Home Office
+ORD-00468,2023-01-20,Clothing,Casual Jacket,59.96,23.4,Central,Small Business
+ORD-00469,2022-01-17,Office Supplies,Printer Paper A4,103.78,16.51,West,Small Business
+ORD-00470,2023-11-08,Clothing,Casual Jacket,220.9,41.39,South,Consumer
+ORD-00471,2024-02-21,Clothing,Formal Shirt,,51.84,West,Home Office
+ORD-00472,2024-08-01,Clothing,Formal Shirt,143.8,26.77,East,Corporate
+ORD-00473,2024-12-02,Office Supplies,Printer Paper A4,86.81,5.92,West,Consumer
+ORD-00474,2023-10-27,Furniture,Executive Chair,1575.79,212.86,West,Small Business
+ORD-00475,2024-01-31,Technology,Mechanical Keyboard,1587.43,267.4,South,Corporate
+ORD-00476,2022-08-08,Technology,Laptop Pro 15,426.49,134.28,North,
+ORD-00477,2024-01-04,Clothing,Formal Shirt,367.98,90.4,East,Small Business
+ORD-00478,2023-12-14,Clothing,Formal Shirt,415.23,145.83,Central,Corporate
+ORD-00479,2024-07-09,Furniture,Executive Chair,468.69,128.1,Central,Corporate
+ORD-00480,2023-05-05,Clothing,Formal Shirt,418.57,48.74,East,Home Office
+ORD-00481,2023-10-23,Clothing,Office Trousers,450.45,29.42,West,Home Office
+ORD-00482,2022-08-08,Furniture,Standing Desk,238.26,66.78,East,Corporate
+ORD-00483,2022-05-26,Office Supplies,Sticky Notes Pack,134.59,45.93,North,Corporate
+ORD-00484,2024-01-26,Clothing,Business Suit,288.06,88.44,North,Small Business
+ORD-00485,2022-07-27,Office Supplies,Sticky Notes Pack,46.0,6.31,West,Consumer
+ORD-00486,2022-08-05,Furniture,Conference Table,907.19,180.96,Central,Small Business
+ORD-00487,2024-10-30,Technology,Wireless Mouse,1049.78,181.94,West,Small Business
+ORD-00488,2024-04-24,Office Supplies,Whiteboard Markers,147.91,36.55,North,Home Office
+ORD-00489,2024-01-08,Furniture,Filing Cabinet,726.5,286.27,Central,Home Office
+ORD-00490,2022-01-14,Technology,Mechanical Keyboard,740.6,250.09,West,Home Office
+ORD-00491,2022-07-13,Office Supplies,Whiteboard Markers,36.3,9.21,Central,Corporate
+ORD-00492,2024-03-29,Furniture,Bookshelf 5-Tier,404.41,88.52,North,Consumer
+ORD-00493,2022-03-18,Clothing,Office Trousers,75.17,24.04,East,Home Office
+ORD-00494,2022-09-04,Office Supplies,File Folders,134.03,7.24,South,Small Business
+ORD-00495,2023-10-16,Clothing,Business Suit,194.17,13.14,North,Consumer
+ORD-00496,2023-03-31,Clothing,Polo T-Shirt,201.28,43.59,Central,Consumer
+ORD-00497,2022-06-24,Technology,Mechanical Keyboard,917.35,200.28,South,Home Office
+ORD-00498,2024-12-09,Furniture,Filing Cabinet,260.39,97.24,South,Corporate
+ORD-00499,2024-01-19,Technology,Laptop Pro 15,826.95,129.57,South,Small Business
+ORD-00500,2024-06-21,Office Supplies,Whiteboard Markers,47.94,15.11,South,Corporate
+ORD-00501,2022-10-30,Technology,Laptop Pro 15,2292.88,203.95,East,Corporate
+ORD-00502,2023-03-05,Clothing,Polo T-Shirt,387.66,93.84,East,Home Office
+ORD-00503,2024-12-14,Furniture,Ergonomic Footrest,439.98,117.16,East,Small Business
+ORD-00504,2024-03-06,Technology,"Monitor 27""",1388.67,121.87,East,Consumer
+ORD-00505,2024-02-19,Office Supplies,File Folders,181.74,47.07,South,Corporate
+ORD-00506,2022-02-14,Technology,Wireless Mouse,271.55,84.33,West,Small Business
+ORD-00507,2023-09-12,Technology,USB-C Hub,625.17,168.19,,Home Office
+ORD-00508,2023-04-07,Clothing,Business Suit,89.51,16.45,Central,Home Office
+ORD-00509,2024-05-23,Furniture,Filing Cabinet,1373.63,168.08,West,Corporate
+ORD-00510,2022-10-10,Furniture,Conference Table,1413.35,563.21,Central,Corporate
+ORD-00511,2023-10-13,Furniture,Ergonomic Footrest,1099.99,378.21,Central,Corporate
+ORD-00512,2024-04-27,Furniture,Ergonomic Footrest,524.69,143.19,East,Home Office
+ORD-00513,2022-09-27,Office Supplies,Ball Pens Box,126.28,,West,Consumer
+ORD-00514,2022-02-23,Furniture,Conference Table,1063.4,278.24,West,Corporate
+ORD-00515,2024-08-28,Office Supplies,Ball Pens Box,16.12,,South,Small Business
+ORD-00516,2023-02-23,Office Supplies,Stapler Set,,43.69,West,Corporate
+ORD-00517,2024-05-25,Office Supplies,File Folders,149.71,23.88,South,Corporate
+ORD-00518,2024-07-24,Technology,Mechanical Keyboard,1688.62,318.24,East,Small Business
+ORD-00519,2023-01-24,Technology,Mechanical Keyboard,724.12,153.13,South,Consumer
+ORD-00520,2024-11-24,Clothing,Casual Jacket,117.91,26.56,Central,Consumer
+ORD-00052,2024-02-19,Clothing,Polo T-Shirt,225.49,81.64,Central,Consumer
+ORD-00323,2023-11-24,Clothing,Formal Shirt,83.13,31.58,East,Consumer
+ORD-00419,2022-06-07,Furniture,Filing Cabinet,493.13,128.56,West,Corporate
+ORD-00083,2023-08-13,Technology,Wireless Mouse,988.61,260.11,North,Corporate
+ORD-00507,2023-09-12,Technology,USB-C Hub,625.17,168.19,North,Home Office
+ORD-00446,2022-01-14,Technology,Laptop Pro 15,1575.64,421.06,East,Small Business
+ORD-00051,2023-03-15,Furniture,Standing Desk,670.64,82.08,South,
+ORD-00004,2022-07-18,Office Supplies,Sticky Notes Pack,60.26,12.7,East,Small Business
+ORD-00148,2023-07-13,Technology,USB-C Hub,1008.77,371.91,East,Corporate
+ORD-00454,2023-11-17,Office Supplies,Stapler Set,150.7,25.69,East,Small Business
+ORD-00317,2023-04-03,Office Supplies,Ball Pens Box,81.89,12.54,Central,Home Office
+ORD-00091,2023-11-04,Office Supplies,Whiteboard Markers,106.86,32.22,South,Consumer
+ORD-00352,2024-02-21,Technology,"Monitor 27""",1153.71,458.39,West,Consumer
+ORD-00110,2023-11-04,Furniture,Conference Table,1565.33,617.38,West,Corporate
+ORD-00098,2022-01-17,Office Supplies,Sticky Notes Pack,151.49,39.73,South,Home Office
